@@ -1,0 +1,13 @@
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\bin\Debug\netcoreapp3.1\GetSetEncapsul.exe
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\bin\Debug\netcoreapp3.1\GetSetEncapsul.deps.json
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\bin\Debug\netcoreapp3.1\GetSetEncapsul.runtimeconfig.json
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\bin\Debug\netcoreapp3.1\GetSetEncapsul.runtimeconfig.dev.json
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\bin\Debug\netcoreapp3.1\GetSetEncapsul.dll
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\bin\Debug\netcoreapp3.1\GetSetEncapsul.pdb
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\obj\Debug\netcoreapp3.1\GetSetEncapsul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\obj\Debug\netcoreapp3.1\GetSetEncapsul.AssemblyInfoInputs.cache
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\obj\Debug\netcoreapp3.1\GetSetEncapsul.AssemblyInfo.cs
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\obj\Debug\netcoreapp3.1\GetSetEncapsul.csproj.CoreCompileInputs.cache
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\obj\Debug\netcoreapp3.1\GetSetEncapsul.dll
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\obj\Debug\netcoreapp3.1\GetSetEncapsul.pdb
+C:\Users\tahmi\source\repos\UpcastingDowncasting, Fibanocci\GetSetEncapsul\obj\Debug\netcoreapp3.1\GetSetEncapsul.genruntimeconfig.cache
